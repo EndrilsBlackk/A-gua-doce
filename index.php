@@ -6,6 +6,9 @@
     <title>Copo D'água</title>
 </head>
 <body>
-    
+    <div>
+    <img src="https://www.viva50.com.br/wp-content/uploads/2013/06/copo-com-agua.jpg" alt="">
+    <h1>Copo d'água penas!</h1>
+    </div>
 </body>
 </html>
